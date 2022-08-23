@@ -7,14 +7,42 @@
 1100 1943
 1110 1943$4ezth
 1131 !04046198X!
-1500 /1slo
+1500 /1rus
 2105 04,P01
-4000 !588032069!
-4004 *1943, 58*
+4000 !588032018!
+4004 *1943, 71*
 4060 1 ungezähltes Blatt
 4061 Illustrationen
 4105 !118043062X!
-4201 Plakatseriennummer: WPr/IV-SO-Nr. 58-V/1943
+4201 Plakatseriennummer: WPr/IV-Russ.-Nr. 71 IX/1943
+4221 Text russisch
+4700 |BSM|
+5590 [Objektgattung]
+5590 !041133579!
+6710 !1059794659!
+7001 23-08-22 : x
+4800 !009033645!
+4801 1 Fragment
+7100 GS PL WKII @ m
+7109 !!DBSM/S!! ; GS PL WKII-ZC8997-13
+	
+0500 Pf
+0501 Text$btxt
+0501 unbewegtes Bild$bsti
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy;lf
+1100 1944
+1110 1944$4ezth
+1131 !04046198X!
+1500 /1slo
+2105 04,P01
+4000 !588032069!
+4004 *1944, 102*
+4060 1 ungezähltes Blatt
+4061 Illustrationen
+4105 !118043062X!
+4201 Plakatseriennummer: WPr/IV-SO-Nr. 102-III/1944
 4221 Text slowakisch
 4700 |BSM|
 5590 [Objektgattung]
@@ -22,9 +50,8 @@
 6710 !1059794659!
 7001 23-08-22 : x
 4800 !009033645!
-4801 3 Fragmente
 7100 GS PL WKII @ m
-7109 !!DBSM/S!! ; GS PL WKII-ZC9002-17
+7109 !!DBSM/S!! ; GS PL WKII-ZC9002-28
 	
 0500 Pf
 0501 Text$btxt
@@ -32,18 +59,18 @@
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy;lf
-1100 1943
-1110 1943$4ezth
+1100 1942
+1110 1942$4ezth
 1131 !04046198X!
-1500 /1dut
+1500 /1rus
 2105 04,P01
-4000 !588032212!
-4004 *1943, 70*
+4000 !588032018!
+4004 *1942, 28*
 4060 1 ungezähltes Blatt
 4061 Illustrationen
 4105 !118043062X!
-4201 Plakatseriennummer: WPr/IV-NL-Nr. 70-IX/1943
-4221 Text holländisch
+4201 Plakatseriennummer: WPr./IV-Russ.-Nr. 28-X/1942
+4221 Text russisch
 4700 |BSM|
 5590 [Objektgattung]
 5590 !041133579!
@@ -51,7 +78,7 @@
 7001 23-08-22 : x
 4800 !009033645!
 7100 GS PL WKII @ m
-7109 !!DBSM/S!! ; GS PL WKII-ZC9017-25
+7109 !!DBSM/S!! ; GS PL WKII-ZC8997-6
 	
 0500 Pf
 0501 Text$btxt
@@ -59,18 +86,18 @@
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy;lf
-1100 1943
-1110 1943$4ezth
+1100 1944
+1110 1944$4ezth
 1131 !04046198X!
-1500 /1ger
+1500 /1rum
 2105 04,P01
-4000 !588031984!
-4004 *1943, 56*
+4000 !588032190!
+4004 *1944, 110*
 4060 1 ungezähltes Blatt
 4061 Illustrationen
 4105 !118043062X!
-4201 Plakatseriennummer: WPr/IV-D-Nr. 56-V/1943
-4221 Text deutsch
+4201 Plakatseriennummer: WPr/IV-RM-Nr. 110-II/1944
+4221 Text rumänisch
 4700 |BSM|
 5590 [Objektgattung]
 5590 !041133579!
@@ -78,7 +105,7 @@
 7001 23-08-22 : x
 4800 !009033645!
 7100 GS PL WKII @ m
-7109 !!DBSM/S!! ; GS PL WKII-ZC8994-16
+7109 !!DBSM/S!! ; GS PL WKII-ZC9015-36
 	
 0500 Pf
 0501 Text$btxt
@@ -92,11 +119,11 @@
 1500 /1rus
 2105 04,P01
 4000 !588032018!
-4004 *1943, 54*
+4004 *1943, 56*
 4060 1 ungezähltes Blatt
 4061 Illustrationen
 4105 !118043062X!
-4201 Plakatseriennummer: WPr/IV-Russ.-Nr. 54-VI/1943
+4201 Plakatseriennummer: WPr/IV-Russ.-Nr. 56-V/1943
 4221 Text russisch
 4700 |BSM|
 5590 [Objektgattung]
@@ -104,34 +131,6 @@
 6710 !1059794659!
 7001 23-08-22 : x
 4800 !009033645!
-4801 1 Fragment
 7100 GS PL WKII @ m
-7109 !!DBSM/S!! ; GS PL WKII-ZC8997-10
-	
-0500 Pf
-0501 Text$btxt
-0501 unbewegtes Bild$bsti
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy;lf
-1100 1943
-1110 1943$4ezth
-1131 !04046198X!
-1500 /1hrv
-2105 04,P01
-4000 !58803200X!
-4004 *1943, 56*
-4060 1 ungezähltes Blatt
-4061 Illustrationen
-4105 !118043062X!
-4201 Plakatseriennummer: WPr/IV-NDH-Nr. 56-V/1943
-4221 Text kroatisch
-4700 |BSM|
-5590 [Objektgattung]
-5590 !041133579!
-6710 !1059794659!
-7001 23-08-22 : x
-4800 !009033645!
-7100 GS PL WKII @ m
-7109 !!DBSM/S!! ; GS PL WKII-ZC8996-13
+7109 !!DBSM/S!! ; GS PL WKII-ZC8997-11
 	
